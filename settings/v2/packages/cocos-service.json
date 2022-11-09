@@ -1,0 +1,42 @@
+{
+  "game": {
+    "app_id": "680120552",
+    "name": "hurt",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "078573"
+    },
+    {
+      "app_id": "680120552",
+      "config_id": "80408b"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "078573",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "680120552",
+      "config_id": "80408b",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "680120552",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}
