@@ -1,4 +1,13 @@
 # hurt
-Theo trend phim Thắp sáng anh, sưởi ấm em. Nhưng mà nó hơi lạ :v
 
-Project được tạo với [Cocos Creator](https://www.cocos.com/en/creator) v3.6
+Small website inspired by the film "Thắp sáng anh, sưởi ấm em" — a little unusual, just for fun.
+
+## Quick start
+
+```bash
+npm install && npm start
+```
+
+## License
+
+Apache-2.0 — see [LICENSE](LICENSE).
