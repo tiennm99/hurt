@@ -12,6 +12,10 @@ Open `index.html` in a browser, or:
 npx serve .
 ```
 
+## Source
+
+Built from [hurt](https://github.com/tiennm99/hurt) — the source repo with the dev server setup.
+
 ## License
 
 Apache-2.0 — see [LICENSE](LICENSE).
