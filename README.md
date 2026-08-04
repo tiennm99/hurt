@@ -8,9 +8,10 @@ Small website inspired by the film "Thắp sáng anh, sưởi ấm em" — a lit
 npm install && npm start
 ```
 
-## Related
+## Live site
 
-- [hurt-page](https://github.com/tiennm99/hurt-page) — built/hosted static version of this site.
+The built static version lives in [`page/`](page/) and is published via GitHub Pages at
+<https://tiennm99.github.io/hurt/>.
 
 ## License
 
